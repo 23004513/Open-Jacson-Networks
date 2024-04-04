@@ -20,6 +20,10 @@ Visual components and Python
 ![output](https://github.com/RuchithaReddy28/Open-Jacson-Networks/blob/main/j1.png?raw=true)
 
 ## Program:
+
+NAME:N.NAVYA SREE    
+REG NO:212223040138    
+
 ```
 
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
